@@ -13,4 +13,4 @@ Q3.2
 
 3- onConfigure est exécuté à chaque ouverture de la base, contrairement à onCreate, qui s'exécute seulement lors de sa création.
 
-4- onCreate est appelé une seule fois, lors de la première création de la base de données.
+4-onCreate est appelé une seule fois, lors de la première création de la base de données.
